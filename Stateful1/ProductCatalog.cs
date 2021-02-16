@@ -4,7 +4,6 @@ using System.Fabric;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using ECommerce.ProductCatalog.Model;
 using ECommerce.ProductCatalog.Models;
 using Microsoft.ServiceFabric.Data;
 using Microsoft.ServiceFabric.Data.Collections;

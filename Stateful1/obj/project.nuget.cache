@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "o70qsPUZ9DfMs5ZcJWHrEnPwjdxbhpBMvYi3CrbVFOCOT74wzpyBm04EGMcqkGmtBP9AiNadidMbpA7QgIAizQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\Stateful1\\ECommerce.ProductCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric\\7.2.452\\microsoft.servicefabric.7.2.452.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.data\\4.2.452\\microsoft.servicefabric.data.4.2.452.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.2.452\\microsoft.servicefabric.data.extensions.4.2.452.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.2.452\\microsoft.servicefabric.data.interfaces.4.2.452.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.2.452\\microsoft.servicefabric.diagnostics.internal.4.2.452.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.services\\4.2.452\\microsoft.servicefabric.services.4.2.452.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

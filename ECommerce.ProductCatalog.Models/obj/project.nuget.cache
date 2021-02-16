@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nuXsY64wlplV+ARQOGduNCOgVJujDX0J10CCWuaupe4uaqG5O1uEO7BbVsRffLBexMlgkaNDEPjnYKVZdwW3aw==",
+  "dgSpecHash": "pEgOShzV94RJtbGaIczB/G95ihkpbki8dTWpeT/5lFk70kM/TQwmCzu5EapSS4+hi+uc/E3VzpFTTiY+UFdxrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\Stateful1\\ECommerce.ProductCatalog.csproj",
+  "projectFilePath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog.Models\\ECommerce.ProductCatalog.Models.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric\\7.2.452\\microsoft.servicefabric.7.2.452.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.data\\4.2.452\\microsoft.servicefabric.data.4.2.452.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.2.452\\microsoft.servicefabric.data.extensions.4.2.452.nupkg.sha512",
@@ -12,10 +13,11 @@
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\4.2.452\\microsoft.servicefabric.fabrictransport.internal.4.2.452.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.services\\4.2.452\\microsoft.servicefabric.services.4.2.452.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\4.2.452\\microsoft.servicefabric.services.remoting.4.2.452.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
-    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
-    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512"
+    "C:\\Users\\u.rana\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }

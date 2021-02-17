@@ -1,16 +1,14 @@
-﻿using System;
+﻿using Microsoft.ServiceFabric.Services.Remoting;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.ServiceFabric.Services.Remoting;
 
 namespace ECommerce.ProductCatalog.Models
 {
-   public interface IProductCatalogService : IService
-   {
-      Task<Product[]> GetAllProductsAsync();
-
-      Task AddProductAsync(Product product);
-   }
-
+    public interface IProductCatalogService : IService
+    {
+        Task<Product[]> GetAllProductsAsync();
+        Task AddProductAsync(Product product);
+    }
 }

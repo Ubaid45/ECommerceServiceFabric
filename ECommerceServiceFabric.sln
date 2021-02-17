@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "ECommerceServiceFabric", "ECommerceServiceFabric\ECommerceServiceFabric.sfproj", "{9F250FD5-888D-43BD-BE60-9DF1699A50DB}"
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "ECommerce", "ECommerceServiceFabric\ECommerce.sfproj", "{9F250FD5-888D-43BD-BE60-9DF1699A50DB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.ProductCatalog", "Stateful1\ECommerce.ProductCatalog.csproj", "{72772C2D-8E44-4F7C-9C68-FA4F6A37F00C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.ProductCatalog.Models", "ECommerce.ProductCatalog.Models\ECommerce.ProductCatalog.Models.csproj", "{40EC2595-29AE-4AD7-ACF8-A1E9CECA7354}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.ProductCatalog.Models", "ECommerce.ProductCatalog.Models\ECommerce.ProductCatalog.Models.csproj", "{40EC2595-29AE-4AD7-ACF8-A1E9CECA7354}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.API", "ECommerce.API\ECommerce.API.csproj", "{074FB6C1-A441-4A9D-9968-5D7A6C798676}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{40EC2595-29AE-4AD7-ACF8-A1E9CECA7354}.Release|Any CPU.Build.0 = Release|Any CPU
 		{40EC2595-29AE-4AD7-ACF8-A1E9CECA7354}.Release|x64.ActiveCfg = Release|Any CPU
 		{40EC2595-29AE-4AD7-ACF8-A1E9CECA7354}.Release|x64.Build.0 = Release|Any CPU
+		{074FB6C1-A441-4A9D-9968-5D7A6C798676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074FB6C1-A441-4A9D-9968-5D7A6C798676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074FB6C1-A441-4A9D-9968-5D7A6C798676}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{074FB6C1-A441-4A9D-9968-5D7A6C798676}.Debug|x64.Build.0 = Debug|Any CPU
+		{074FB6C1-A441-4A9D-9968-5D7A6C798676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074FB6C1-A441-4A9D-9968-5D7A6C798676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074FB6C1-A441-4A9D-9968-5D7A6C798676}.Release|x64.ActiveCfg = Release|Any CPU
+		{074FB6C1-A441-4A9D-9968-5D7A6C798676}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

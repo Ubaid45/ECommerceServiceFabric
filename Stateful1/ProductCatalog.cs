@@ -45,10 +45,11 @@ namespace ECommerce.ProductCatalog
            CreateServiceReplicaListeners()
         {
             return new[]
-            {
+         {
             new ServiceReplicaListener(context =>
                new FabricTransportServiceRemotingListener(context, this))
          };
+
         }
 
         /// <summary>

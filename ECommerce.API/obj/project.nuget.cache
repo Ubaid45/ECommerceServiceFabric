@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a8AsS5ACl0aNZPNcBPLCY1iJ8QRIXP3b72zNTPiUoAuT9+v0ocM6Zl9ufEFxndJg3Nb46Lgw4jFsNx1wqqA3dw==",
+  "dgSpecHash": "TOeKcx7hq9c9OPiLsDhu+DBQ8V4QcbwKpYxRtOABWwtkhTk5egfFZ9iDY5d7mJVcbdbWEYmKqGg8YvI9nywc9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.API\\ECommerce.API.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric\\7.2.452\\microsoft.servicefabric.7.2.452.nupkg.sha512",
+    "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.actors\\4.2.452\\microsoft.servicefabric.actors.4.2.452.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.abstractions\\4.2.452\\microsoft.servicefabric.aspnetcore.abstractions.4.2.452.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.kestrel\\4.2.452\\microsoft.servicefabric.aspnetcore.kestrel.4.2.452.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.data\\4.2.452\\microsoft.servicefabric.data.4.2.452.nupkg.sha512",

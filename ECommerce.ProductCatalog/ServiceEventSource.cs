@@ -7,9 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.ServiceFabric.Services.Runtime;
 
-namespace Stateful1
+namespace ECommerce.ProductCatalog
 {
-    [EventSource(Name = "MyCompany-ECommerceServiceFabric-Stateful1")]
+    [EventSource(Name = "MyCompany-ECommerce-ECommerce.ProductCatalog")]
     internal sealed class ServiceEventSource : EventSource
     {
         public static readonly ServiceEventSource Current = new ServiceEventSource();

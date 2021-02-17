@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nuXsY64wlplV+ARQOGduNCOgVJujDX0J10CCWuaupe4uaqG5O1uEO7BbVsRffLBexMlgkaNDEPjnYKVZdwW3aw==",
+  "dgSpecHash": "zz5Yj6fvBY4BtfT5lkz21/spnrHJ3aPNJ3jcJfEFmkyDf4pbOvtWkpCa2B1XUsw2F4zaEGMuGziQe2AjRVL/Tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\Stateful1\\ECommerce.ProductCatalog.csproj",
+  "projectFilePath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog\\ECommerce.ProductCatalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric\\7.2.452\\microsoft.servicefabric.7.2.452.nupkg.sha512",
     "C:\\Users\\u.rana\\.nuget\\packages\\microsoft.servicefabric.data\\4.2.452\\microsoft.servicefabric.data.4.2.452.nupkg.sha512",

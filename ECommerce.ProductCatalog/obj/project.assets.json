@@ -908,11 +908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\Stateful1\\ECommerce.ProductCatalog.csproj",
+      "projectUniqueName": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog\\ECommerce.ProductCatalog.csproj",
       "projectName": "ECommerce.ProductCatalog",
-      "projectPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\Stateful1\\ECommerce.ProductCatalog.csproj",
+      "projectPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog\\ECommerce.ProductCatalog.csproj",
       "packagesPath": "C:\\Users\\u.rana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\Stateful1\\obj\\",
+      "outputPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

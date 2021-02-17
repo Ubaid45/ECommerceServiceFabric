@@ -23,7 +23,7 @@ namespace ECommerce.API.Controllers
             c => new FabricTransportServiceRemotingClientFactory());
 
          _service = proxyFactory.CreateServiceProxy<IProductCatalogService>(
-            new Uri("fabric:/ECommerceServiceFabric/Stateful1"),
+            new Uri("fabric:/ECommerceServiceFabric/ECommerce.ProductCatalog"),
             new ServicePartitionKey(0));
       }
 

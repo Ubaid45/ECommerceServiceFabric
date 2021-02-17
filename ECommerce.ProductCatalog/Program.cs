@@ -2,10 +2,9 @@ using System;
 using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
-using ECommerce.ProductCatalog;
 using Microsoft.ServiceFabric.Services.Runtime;
 
-namespace Stateful1
+namespace ECommerce.ProductCatalog
 {
     internal static class Program
     {
@@ -21,7 +20,7 @@ namespace Stateful1
                 // When Service Fabric creates an instance of this service type,
                 // an instance of the class is created in this host process.
 
-                ServiceRuntime.RegisterServiceAsync("Stateful1Type",
+                ServiceRuntime.RegisterServiceAsync("ECommerce.ProductCatalogType",
                     context => new ProductCatalog(context)).GetAwaiter().GetResult();
 
                 ServiceEventSource.Current.ServiceTypeRegistered(Process.GetCurrentProcess().Id, typeof(ProductCatalog).Name);

@@ -1,0 +1,9 @@
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.ProductCatalog.Models\bin\Debug\netstandard2.0\ECommerce.ProductCatalog.Models.deps.json
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.ProductCatalog.Models\bin\Debug\netstandard2.0\ECommerce.ProductCatalog.Models.dll
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.ProductCatalog.Models\bin\Debug\netstandard2.0\ECommerce.ProductCatalog.Models.pdb
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.ProductCatalog.Models\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Models.csprojAssemblyReference.cache
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.ProductCatalog.Models\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Models.AssemblyInfoInputs.cache
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.ProductCatalog.Models\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Models.AssemblyInfo.cs
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.ProductCatalog.Models\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Models.csproj.CoreCompileInputs.cache
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.ProductCatalog.Models\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Models.dll
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.ProductCatalog.Models\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Models.pdb

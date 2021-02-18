@@ -395,3 +395,5 @@ C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netc
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\bin\Debug\netcoreapp3.1\win7-x64\Microsoft.ServiceFabric.Actors.dll
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.dll
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.pdb
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\bin\Debug\netcoreapp3.1\win7-x64\ECommerce.CheckoutService.Model.dll
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\bin\Debug\netcoreapp3.1\win7-x64\ECommerce.CheckoutService.Model.pdb

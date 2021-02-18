@@ -377,7 +377,9 @@ C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netc
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\Microsoft.ServiceFabric.Services.Remoting.dll
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\Newtonsoft.Json.dll
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\libuv.dll
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\ECommerce.CheckoutService.Model.dll
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\ECommerce.ProductCatalog.Models.dll
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\UserActor.Interfaces.dll
+C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\ECommerce.CheckoutService.Model.pdb
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\ECommerce.ProductCatalog.Models.pdb
 C:\Users\u.rana\source\repos\ECommerceServiceFabric\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\PubTmp\Out\UserActor.Interfaces.pdb

@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "ECommerce.API/1.0.0": {
         "dependencies": {
+          "ECommerce.CheckoutService.Model": "1.0.0",
           "ECommerce.ProductCatalog.Models": "1.0.0",
           "Microsoft.ServiceFabric.AspNetCore.Kestrel": "4.2.452",
           "Newtonsoft.Json": "12.0.3",
@@ -2818,6 +2819,15 @@
           "runtime.any.System.Threading.Timer": "4.0.1"
         }
       },
+      "ECommerce.CheckoutService.Model/1.0.0": {
+        "dependencies": {
+          "ECommerce.ProductCatalog.Models": "1.0.0",
+          "Microsoft.ServiceFabric.Services.Remoting": "4.2.452"
+        },
+        "compile": {
+          "ECommerce.CheckoutService.Model.dll": {}
+        }
+      },
       "ECommerce.ProductCatalog.Models/1.0.0": {
         "dependencies": {
           "Microsoft.ServiceFabric.Services.Remoting": "4.2.452"
@@ -2838,6 +2848,7 @@
     ".NETCoreApp,Version=v3.1/win7-x64": {
       "ECommerce.API/1.0.0": {
         "dependencies": {
+          "ECommerce.CheckoutService.Model": "1.0.0",
           "ECommerce.ProductCatalog.Models": "1.0.0",
           "Microsoft.ServiceFabric.AspNetCore.Kestrel": "4.2.452",
           "Newtonsoft.Json": "12.0.3",
@@ -5649,6 +5660,15 @@
           "runtime.any.System.Threading.Timer": "4.0.1"
         }
       },
+      "ECommerce.CheckoutService.Model/1.0.0": {
+        "dependencies": {
+          "ECommerce.ProductCatalog.Models": "1.0.0",
+          "Microsoft.ServiceFabric.Services.Remoting": "4.2.452"
+        },
+        "runtime": {
+          "ECommerce.CheckoutService.Model.dll": {}
+        }
+      },
       "ECommerce.ProductCatalog.Models/1.0.0": {
         "dependencies": {
           "Microsoft.ServiceFabric.Services.Remoting": "4.2.452"
@@ -6571,6 +6591,11 @@
       "sha512": "sha512-saGfUV8uqVW6LeURiqxcGhZ24PzuRNaUBtbhVeuUAvky1naH395A/1nY0P2bWvrw/BreRtIB/EzTDkGBpqCwEw==",
       "path": "system.threading.timer/4.0.1",
       "hashPath": "system.threading.timer.4.0.1.nupkg.sha512"
+    },
+    "ECommerce.CheckoutService.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "ECommerce.ProductCatalog.Models/1.0.0": {
       "type": "project",

@@ -1863,6 +1863,20 @@
           "ref/netstandard1.2/System.Threading.Timer.dll": {}
         }
       },
+      "ECommerce.CheckoutService.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ECommerce.ProductCatalog.Models": "1.0.0",
+          "Microsoft.ServiceFabric.Services.Remoting": "4.2.452"
+        },
+        "compile": {
+          "bin/placeholder/ECommerce.CheckoutService.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerce.CheckoutService.Model.dll": {}
+        }
+      },
       "ECommerce.ProductCatalog.Models/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -3789,6 +3803,20 @@
         },
         "compile": {
           "ref/netstandard1.2/System.Threading.Timer.dll": {}
+        }
+      },
+      "ECommerce.CheckoutService.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ECommerce.ProductCatalog.Models": "1.0.0",
+          "Microsoft.ServiceFabric.Services.Remoting": "4.2.452"
+        },
+        "compile": {
+          "bin/placeholder/ECommerce.CheckoutService.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerce.CheckoutService.Model.dll": {}
         }
       },
       "ECommerce.ProductCatalog.Models/1.0.0": {
@@ -8357,6 +8385,11 @@
         "system.threading.timer.nuspec"
       ]
     },
+    "ECommerce.CheckoutService.Model/1.0.0": {
+      "type": "project",
+      "path": "../ECommerce.CheckoutService.Model/ECommerce.CheckoutService.Model.csproj",
+      "msbuildProject": "../ECommerce.CheckoutService.Model/ECommerce.CheckoutService.Model.csproj"
+    },
     "ECommerce.ProductCatalog.Models/1.0.0": {
       "type": "project",
       "path": "../ECommerce.ProductCatalog.Models/ECommerce.ProductCatalog.Models.csproj",
@@ -8370,6 +8403,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "ECommerce.CheckoutService.Model >= 1.0.0",
       "ECommerce.ProductCatalog.Models >= 1.0.0",
       "Microsoft.ServiceFabric.AspNetCore.Kestrel >= 4.2.452",
       "Newtonsoft.Json >= 12.0.3",
@@ -8411,6 +8445,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj": {
+              "projectPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj"
+            },
             "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog.Models\\ECommerce.ProductCatalog.Models.csproj": {
               "projectPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog.Models\\ECommerce.ProductCatalog.Models.csproj"
             },

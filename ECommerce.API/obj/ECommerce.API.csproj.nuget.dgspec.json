@@ -34,6 +34,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj": {
+                "projectPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj"
+              },
               "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog.Models\\ECommerce.ProductCatalog.Models.csproj": {
                 "projectPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog.Models\\ECommerce.ProductCatalog.Models.csproj"
               },
@@ -100,6 +103,77 @@
       "runtimes": {
         "win7-x64": {
           "#import": []
+        }
+      }
+    },
+    "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj",
+        "projectName": "ECommerce.CheckoutService.Model",
+        "projectPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.CheckoutService.Model\\ECommerce.CheckoutService.Model.csproj",
+        "packagesPath": "C:\\Users\\u.rana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.CheckoutService.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\u.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/quipu-ebanking/_packaging/ebanking/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog.Models\\ECommerce.ProductCatalog.Models.csproj": {
+                "projectPath": "C:\\Users\\u.rana\\source\\repos\\ECommerceServiceFabric\\ECommerce.ProductCatalog.Models\\ECommerce.ProductCatalog.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Services.Remoting": {
+              "target": "Package",
+              "version": "[4.2.452, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
